@@ -42,6 +42,12 @@ Players can check their token balance at any time using the getBalance function.
 ### Burning Tokens (burn)
 - Burn tokens that are no longer needed.
 
+![Screenshot 2024-05-18 074830](https://github.com/WonSojuPapi/Degen-Token-Module-4/blob/main/DGN/1.png?raw=true)
+![Screenshot 2024-05-18 074830](https://github.com/WonSojuPapi/Degen-Token-Module-4/blob/main/DGN/2.png?raw=true)
+![Screenshot 2024-05-18 074830](https://github.com/WonSojuPapi/Degen-Token-Module-4/blob/main/DGN/4.png?raw=true)
+![Screenshot 2024-05-18 074830](https://github.com/WonSojuPapi/Degen-Token-Module-4/blob/main/DGN/3.png?raw=true)
+
+
 ### Author
 Jakkin Elero 3.2 BSIT
 
