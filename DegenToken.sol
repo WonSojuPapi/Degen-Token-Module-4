@@ -6,7 +6,7 @@
 4. Checking token balance: Players should be able to check their token balance at any time.
 5. Burning tokens: Anyone should be able to burn tokens, that they own, that are no longer needed.
 */
-pragma solidity ^0.8.0;
+pragma solidity >=0.6.12 <0.9.0;
 
 contract DegenToken {
     string public name;
